@@ -1,3 +1,4 @@
 no-commit/
-_site/
 .jekyll-metadata
+_site
+.sass-cache
