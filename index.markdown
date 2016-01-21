@@ -33,5 +33,5 @@ Les sites et marques suivantes protestent contre le blocage de la VoIP au Maroc.
 Afin de figurer dans la liste, intégrez le compteur VoIPDown puis envoyez un e-mail avec le lien de votre site à **allo[AT]voipdown[DOT]com**
 
 {% for brand in site.data.supporters %}
-  <a href="{{brand.url}}" target="_blank">{{ brand.name }}</a>
+  <a href="{{brand.link}}" target="_blank">{{ brand.name }}</a>
 {% endfor %}
