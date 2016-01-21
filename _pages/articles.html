@@ -3,8 +3,9 @@ layout: page
 title: Liens
 permalink: /links/
 ---
+{% assign links = site.data.links | sort: 'date' %}
 <ul class="c-archives__list">
-  {% for link in site.data.links  %}
+  {% for link in links %}
     <li class="c-archives__item">
       <h3><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></h3>
       <p>{{ link.sitename }} / {{ link.date }}</p>
