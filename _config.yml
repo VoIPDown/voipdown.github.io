@@ -1,10 +1,10 @@
 # Site settings
 title: VoIPDown.com
-email: contact@voipdown.com
+email: allo@voipdown.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ce projet communautaire open source a été créé en réaction au blocage des technologies VoIP
+  au Maroc par l'Agence Nationale de Réglementation des Télécommunications
+  depuis le 5 Janvier 2016.
 baseurl: ""
 url: "http://voipdown.com"
 fixedNav: 'true' # true or false
