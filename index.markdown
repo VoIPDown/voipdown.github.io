@@ -12,7 +12,7 @@ Il suffit de copier le code suivant n'importe où dans la page (de préférence 
 
 La mise à jour des jours écoulés depuis le blocage du VoIP se fait automatiquement.
 
-<img src="/assets/images/ribbon-example.png" alt="Compteur VoIPDown" width="100" height="79">
+<img src="/assets/images/ribbon-example.png" alt="Compteur VoIPDown" width="100" height="80">
 
 {% highlight html %}
   <script>
