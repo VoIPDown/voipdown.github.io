@@ -3,6 +3,9 @@ layout: page
 title: A Propos
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ce projet communautaire open source est créé en réaction au blocage des technologies VoIP au Maroc par [l'Agence Nationale de Réglementation des Télécommunications](http://www.anrt.ma), depuis le 5 Janvier 2016.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Pour contribuer, il suffit de créer un ticket sur la page du projet sur [Github](https://github.com/VoIPDown/voipdown.github.io/issues), ou bien envoyer un email à **allo[AT]voipdown[DOT]com**
+
+{:dir="rtl"}
+النص بالعربية.
