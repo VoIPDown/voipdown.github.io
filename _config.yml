@@ -10,9 +10,9 @@ url: "http://voipdown.com"
 fixedNav: 'true' # true or false
 theme: orange # green, blue, orange, purple, grey
 twitterUsername:
-githubUsername: voipdown
-dribbbleUsername:
-codepenUsername:
+githubUsername: 'VoIPDown/voipdown.github.io'
+facebookUsername:
+
 
 # Build settings
 permalink: /:year/:month/:title
