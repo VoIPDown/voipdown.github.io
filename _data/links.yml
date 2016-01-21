@@ -1,12 +1,49 @@
-- title: Title1
-  url: http://pressite.com
-  date: 12-01-2015
-  sitename: Presssite
-- title: Title2
-  url: http://pressite.com
-  date: 12-01-2015
-  sitename: Presssite
-- title: Title3
-  url: http://pressite.com
-  date: 12-01-2015
-  sitename: Presssite
+- title: 'Maroc. Les opérateurs télécoms ont bloqué les appels sur WhatsApp, Viber et Skype'
+  url: http://www.medias24.com/MEDIAS-IT/160774-Maroc.-Les-operateurs-telecoms-ont-bloque-les-appels-sur-WhatsApp-Viber-et-Skype.html
+  date: 05-01-2016
+  sitename: Medias24
+
+- title: 'Blocage VoIP au Maroc: l’ANRT donne raison aux opérateurs' 
+  url: http://www.medias24.com/MEDIAS-IT/160847-Blocage-VoIP-au-Maroc-L-ANRT-donne-raison-aux-operateurs.html
+  date: 07-01-2016
+  sitename: Medias24
+
+- title: 'Blocage de la VoIP au Maroc: Des raisons clairement commerciales'
+  url: http://www.medias24.com/MEDIAS-IT/160813-Blocage-de-la-VoIP-au-Maroc-Des-raisons-clairement-commerciales.html
+  date: 06-01-2016
+  sitename: Medias24
+
+- title: 'Blocage de la VoIP au Maroc: levée de boucliers des usagers, des pétitions lancées'
+  url: http://www.medias24.com/MEDIAS-IT/160788-Blocage-de-la-VoIP-au-Maroc-levee-de-boucliers-des-usagers-des-petitions-lancees.html
+  date: 06-01-2016
+  sitename: Medias24
+
+- title: WhatsApp, Skype et Viber au Maroc. Voici comment des internautes contournent le blocage 
+  url: http://www.medias24.com/MEDIAS-IT/160815-WhatsApp-Skype-et-Viber-au-Maroc.-Voici-comment-des-internautes-contournent-le-blocage.html
+  date: 06-01-2016
+  sitename: Medias24
+
+- title: الاسباب الحقيقية وراء حظر شركات الإتصال المغربية لسكايب و واتس اب + الحل
+  url: http://www.th3professional.com/2016/01/blog-post_9.html
+  date: 06-01-2016
+  sitename: Th3Professional
+
+- title: Les effets du blocage de la VoIP au Maroc sur l'économie et l'entrepreneuriat.
+  url: http://fr.wamda.com/2016/01/effets-blocage-de-la-voip-au-maroc-sur-economie-et-entrepreneuriat
+  date: 11-01-2016
+  sitename: Wamda
+
+- title: كيف تستعمل خدمة ال ـVOIP رغما عن انف شركات الإتصال وتتصل بالمجان بدون VPN
+  url: http://www.th3professional.com/2016/01/free-voip.html
+  date: 18-01-2016
+  sitename: Th3Professional
+
+- title: شركات الإتصال بالمغرب تحظر سكايب,فايبر ووتساب
+  url: https://www.youtube.com/watch?v=UPrzeLbHANo
+  date: 08-01-2016
+  sitename: AlJazeera
+
+- title: المغاربة يتجهون إلى تقنية ف.ب.ن. لتجاوز منع الوتساب وسكايب
+  url: http://www.alyaoum24.com/473265.html
+  date: 10-01-2016
+  sitename: AlYaoum24
