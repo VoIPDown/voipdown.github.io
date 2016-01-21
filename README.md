@@ -21,10 +21,9 @@ Make sure to add a `{:dir="rtl"}` line before your arabic content (to render it 
 
 ## Contributors
 
-Mehdi Ayache / VoIP counter design.
-Zak El Fassi / Code, initial -crappy- text.
-
-You? :)
+- **Mehdi Ayache** / VoIP counter design.
+- **Zak El Fassi** / Code, initial -crappy- text.
+- You? :)
 
 ## Contact
 allo[AT]voipdown[DOT]com
