@@ -1,6 +1,6 @@
 (function Voipdown() {
   var ribbonHtml =
-      '<div class="Voipdown-ribbon" style="font-family: Arial, Helvetica, sans-serif;position: fixed;bottom: 0;left: 0;">' +
+      '<div class="Voipdown-ribbon" style="font-family: Arial, Helvetica, sans-serif;position: fixed;bottom: 0;left: 0;line-height:0;">' +
         '<a href="http://voipdown.com" target="_blank" style="color: #fff;text-decoration: none;line-height: 8px;" onMouseOver="this.style.opacity=0.8" onMouseOut="this.style.opacity=1">' +
           '<img src="http://voipdown.com/assets/images/ribbon.png" width="100" height="80" alt="VoIPDown">' +
           '<span class="Voipdown-counter" style="color: #fff;font-size: 12px;display: block;position: absolute;bottom: 4px;left: 8px;">' +
