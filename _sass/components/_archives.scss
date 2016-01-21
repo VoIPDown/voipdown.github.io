@@ -35,6 +35,8 @@
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
+          flex-direction: column;
+  -webkit-flex-direction: column;
 
   h3 {
     @include fs--body;
