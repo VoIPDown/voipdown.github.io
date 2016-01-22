@@ -7,6 +7,10 @@
   link: http://jobfinder.ma
   type: company
 
+- name: Zaigood
+  link: http://www.zaigood.com
+  type: company
+
 - name: VisitTaghazout.com
   link: http://www.visittaghazout.com
   type: company
@@ -33,6 +37,10 @@
 
 - name: GSin Team
   link: http://gsin-team.com
+  type: company
+
+- name: Babel Band
+  link: http://babelband.ma
   type: company
 
 - name: MegaWeb Pro
@@ -79,6 +87,10 @@
 
 - name: AdilHaddaoui.com
   link: http://www.adilhaddaoui.com
+  type: blog
+
+- name: TarikRaiss.com
+  link: http://www.tarikraiss.com
   type: blog
 
 - name: HappyNador.com
@@ -147,4 +159,8 @@
 
 - name: Korchi Blog
   link: http://korchiblog.blogspot.com
+  type: blog
+
+- name: 1abd Blog
+  link: http://1abd.blogspot.com
   type: blog
