@@ -46,6 +46,14 @@
   link: http://www.me3loma.com
   logo:
 
+- name: iWebMaroc.com
+  link: http://iwebmaroc.com
+  logo:
+
+- name: ComputerSciencesArabic.com
+  link: http://www.computersciencesarabic.com
+  logo:
+
 - name: NewCompra.com
   link: https://newcompra.com
   logo:
@@ -54,12 +62,20 @@
   link: http://www.ge4tech.com
   logo:
 
+- name: hcouchD.com
+  link: http://www.hcouchd.com
+  logo:
+
 - name: ibn-zohr-university.com
   link: http://www.ibn-zohr-university.com
   logo:
 
 - name: Castle-Tips.com
   link: http://www.castle-tips.com
+  logo:
+
+- name: MegaWebPro
+  link: http://www.megawebpro.com
   logo:
 
 - name: NewsAtDotNet
