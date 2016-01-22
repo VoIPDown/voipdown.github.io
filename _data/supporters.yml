@@ -10,6 +10,10 @@
   link: http://jobfinder.ma
   logo: jobfinder.png
 
+- name: th3professional.com
+  link: http://th3professional.com
+  logo: th3.jpg
+
 - name: WeLoveBuzz.com
   link: http://WeLoveBuzz.com
   logo: wlb.png
@@ -33,3 +37,7 @@
 - name: zakioussama.com
   link: http://www.zakioussama.com/
   logo: zakioussama.png
+
+- name: http://www.learnadoo.com
+  link: http://www.learnadoo.com
+  logo: learnadoo.com
