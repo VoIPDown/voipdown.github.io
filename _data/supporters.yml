@@ -1,43 +1,59 @@
 - name: Marouane.org
   link: http://marouane.org
-  logo: marouaneorg.png
+  logo:
 
 - name: zakelfassi.com
   link: http://zakelfassi.com
-  logo: zakelfassi.png
+  logo:
 
 - name: JobFinder.ma
   link: http://jobfinder.ma
-  logo: jobfinder.png
+  logo:
 
-- name: th3professional.com
+- name: Th3professional.com
   link: http://th3professional.com
-  logo: th3.jpg
+  logo:
 
 - name: WeLoveBuzz.com
   link: http://WeLoveBuzz.com
-  logo: wlb.png
+  logo:
 
 - name: Genious.net
   link: http://genious.net
-  logo: genious.png
+  logo:
 
-- name: achraf52.com
+- name: Achraf52.com
   link: http://achraf52.com
-  logo: achraf52.com
+  logo:
 
 - name: Wave.ma
   link: http://wave.ma
-  logo: wave.png
+  logo:
 
-- name: Karimmove.com
+- name: KarimMove.com
   link: http://Karimmove.com
-  logo: Karimmove.jpg
+  logo:
 
-- name: zakioussama.com
+- name: ZakiOussama.com
   link: http://www.zakioussama.com/
-  logo: zakioussama.png
+  logo:
 
-- name: http://www.learnadoo.com
+- name: Learnadoo.com
   link: http://www.learnadoo.com
-  logo: learnadoo.com
+  logo:
+
+- name: Me3loma.com
+  link: http://www.me3loma.com
+  logo:
+
+- name: Ge4Tech.com
+  link: http://www.ge4tech.com
+  logo:
+
+- name: NewsAtDotNet
+  link: http://newsatdotnet.blogspot.com
+  logo:
+
+- name: KorchiBlog
+  link: http://korchiblog.blogspot.com
+  logo:
