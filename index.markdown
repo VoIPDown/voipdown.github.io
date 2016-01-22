@@ -36,6 +36,16 @@ Afin de figurer dans la liste, intégrez le compteur VoIPDown puis envoyez un e-
 
 Les sites suivants protestent contre le blocage de la VoIP au Maroc.
 
-{% for brand in site.data.supporters %}
-  <a href="{{brand.link}}" target="_blank">{{ brand.name }}</a>
+
+{% assign companies = site.data.supporters | where: 'type', 'company' %}
+{% assign blogs = site.data.supporters | where: 'type', 'blog' %}
+
+### Entreprises / Marques
+{% for company in companies %}
+  <a href="{{company.link}}" target="_blank">{{ company.name }}</a>
+{% endfor %}
+
+### Sites de presse / Sites perso / Blogs
+{% for blog in blogs %}
+  <a href="{{blog.link}}" target="_blank">{{ blog.name }}</a>
 {% endfor %}

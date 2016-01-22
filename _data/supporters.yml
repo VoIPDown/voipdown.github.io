@@ -1,110 +1,150 @@
-- name: Marouane.org
-  link: http://marouane.org
+# Companies / Brands
+- name: Genious
+  link: http://genious.ma
+  type: company
 
-- name: zakelfassi.com
-  link: http://zakelfassi.com
-
-- name: JobFinder.ma
+- name: JobFinder
   link: http://jobfinder.ma
-
-- name: Th3professional.com
-  link: http://th3professional.com
-
-- name: 4Ts.io
-  link: http://4Ts.io
-
-- name: WeLoveBuzz.com
-  link: http://WeLoveBuzz.com
-
-- name: Genious.net
-  link: http://genious.net
+  type: company
 
 - name: VisitTaghazout.com
   link: http://www.visittaghazout.com
+  type: company
 
-- name: Achraf52.com
-  link: http://achraf52.com
-
-- name: Wave.ma
-  link: http://wave.ma
-
-- name: KarimMove.com
-  link: http://Karimmove.com
-
-- name: ZakiOussama.com
-  link: http://www.zakioussama.com/
-
-- name: Learnadoo.com
+- name: Learnadoo
   link: http://www.learnadoo.com
+  type: company
 
-- name: Me3loma.com
-  link: http://www.me3loma.com
-
-- name: iWebMaroc.com
+- name: iWeb Maroc
   link: http://iwebmaroc.com
+  type: company
 
-- name: ComputerSciencesArabic.com
-  link: http://www.computersciencesarabic.com
-
-- name: NewCompra.com
-  link: https://newcompra.com
+- name: Wave
+  link: http://wave.ma
+  type: company
 
 - name: Paragon Solutions
   link: https://paragonsolutions.ma
-
-- name: Ge4Tech.com
-  link: http://www.ge4tech.com
+  type: company
 
 - name: Symodd
   link: http://www.symodd.com/blog
-
-- name: hcouchD.com
-  link: http://www.hcouchd.com
-
-- name: ibn-zohr-university.com
-  link: http://www.ibn-zohr-university.com
-
-- name: Castle-Tips.com
-  link: http://www.castle-tips.com
-
-- name: MegaWebPro
-  link: http://www.megawebpro.com
-
-- name: HappyNador.com
-  link: http://www.happynador.com
+  type: company
 
 - name: GSin Team
   link: http://gsin-team.com
+  type: company
 
-- name: Almohtarif.ga
-  link: http://www.almohtarif.ga
+- name: MegaWeb Pro
+  link: http://www.megawebpro.com
+  type: company
 
-- name: PSman.gq
-  link: http://www.psman.gq
+- name: NewCompra
+  link: https://newcompra.com
+  type: company
+
+# News sites / Personal sites / Blogs
+
+- name: Th3Professional.com
+  link: http://th3professional.com
+  type: blog
+
+- name: WeLoveBuzz
+  link: http://WeLoveBuzz.com
+  type: blog
+
+- name: Marouane.org
+  link: http://marouane.org
+  type: blog
+
+- name: zakelfassi.com
+  link: http://zakelfassi.com
+  type: blog
+
+- name: Achraf52.com
+  link: http://achraf52.com
+  type: blog
+
+- name: ZakiOussama.com
+  link: http://www.zakioussama.com/
+  type: blog
+
+- name: KarimMove.com
+  link: http://Karimmove.com
+  type: blog
+
+- name: 4Ts.io
+  link: http://4Ts.io
+  type: blog
 
 - name: AdilHaddaoui.com
   link: http://www.adilhaddaoui.com
+  type: blog
+
+- name: HappyNador.com
+  link: http://www.happynador.com
+  type: blog
+
+- name: ibn-zohr-university.com
+  link: http://www.ibn-zohr-university.com
+  type: blog
+
+- name: Me3loma.com
+  link: http://www.me3loma.com
+  type: blog
+
+- name: ComputerSciencesArabic.com
+  link: http://www.computersciencesarabic.com
+  type: blog
+
+- name: Ge4Tech.com
+  link: http://www.ge4tech.com
+  type: blog
+
+- name: hcouchD.com
+  link: http://www.hcouchd.com
+  type: blog
+
+- name: Castle-Tips.com
+  link: http://www.castle-tips.com
+  type: blog
+
+- name: Almohtarif.ga
+  link: http://www.almohtarif.ga
+  type: blog
+
+- name: PSman.gq
+  link: http://www.psman.gq
+  type: blog
 
 - name: Aty9ny Blog
   link: http://aty9ny.blogspot.ch
+  type: blog
 
 - name: Th3pc Blog
   link: http://th3pc.blogspot.com
+  type: blog
 
 - name: Ghariba2 Blog
   link: http://www.ghariba2.blogspot.ch
+  type: blog
 
 - name: Ibda3Echo Blog
   link: http://ibda3echo.blogspot.ch
+  type: blog
 
 - name: Ameninfo-ma Blog
   link: http://ameninfo-ma.blogspot.de
+  type: blog
 
 - name: Th9pro Blog
   link: http://www.th9pro.tk
+  type: blog
 
-- name: NewsAtDotNet
+- name: NewsAtDotNet Blog
   link: http://newsatdotnet.blogspot.com
+  type: blog
 
-- name: KorchiBlog
+- name: Korchi Blog
   link: http://korchiblog.blogspot.com
+  type: blog
