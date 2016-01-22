@@ -22,7 +22,7 @@ La mise à jour des jours écoulés depuis le blocage du VoIP se fait automatiqu
     var h = d.getElementsByTagName('head')[0];
     var js = d.createElement(s);
     js.type = 'text/javascript';
-    js.src = 'http://voipdown.com/assets/js/voipdown.min.js';
+    js.src = '//voipdown.com/assets/js/voipdown.min.js';
     h.appendChild(js);
   }(document, 'script'));
 </script>
