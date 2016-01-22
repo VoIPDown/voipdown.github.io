@@ -1,11 +1,3 @@
-- name: WeLoveBuzz.com
-  link: http://WeLoveBuzz.com
-  logo: wlb.png
-
-- name: genious.net
-  link: http://genious.net
-  logo: genious.png
-
 - name: Marouane.org
   link: http://marouane.org
   logo: marouaneorg.png
@@ -13,6 +5,18 @@
 - name: zakelfassi.com
   link: http://zakelfassi.com
   logo: zakelfassi.png
+
+- name: JobFinder.ma
+  link: http://jobfinder.ma
+  logo: jobfinder.png
+
+- name: WeLoveBuzz.com
+  link: http://WeLoveBuzz.com
+  logo: wlb.png
+
+- name: Genious.net
+  link: http://genious.net
+  logo: genious.png
 
 - name: achraf52.com
   link: http://achraf52.com
