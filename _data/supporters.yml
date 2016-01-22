@@ -1,99 +1,110 @@
 - name: Marouane.org
   link: http://marouane.org
-  logo:
 
 - name: zakelfassi.com
   link: http://zakelfassi.com
-  logo:
 
 - name: JobFinder.ma
   link: http://jobfinder.ma
-  logo:
 
 - name: Th3professional.com
   link: http://th3professional.com
-  logo:
 
 - name: 4Ts.io
   link: http://4Ts.io
-  logo:
 
 - name: WeLoveBuzz.com
   link: http://WeLoveBuzz.com
-  logo:
 
 - name: Genious.net
   link: http://genious.net
-  logo:
 
 - name: VisitTaghazout.com
   link: http://www.visittaghazout.com
-  logo:
 
 - name: Achraf52.com
   link: http://achraf52.com
-  logo:
 
 - name: Wave.ma
   link: http://wave.ma
-  logo:
 
 - name: KarimMove.com
   link: http://Karimmove.com
-  logo:
 
 - name: ZakiOussama.com
   link: http://www.zakioussama.com/
-  logo:
 
 - name: Learnadoo.com
   link: http://www.learnadoo.com
-  logo:
 
 - name: Me3loma.com
   link: http://www.me3loma.com
-  logo:
 
 - name: iWebMaroc.com
   link: http://iwebmaroc.com
-  logo:
 
 - name: ComputerSciencesArabic.com
   link: http://www.computersciencesarabic.com
-  logo:
 
 - name: NewCompra.com
   link: https://newcompra.com
-  logo:
+
+- name: Paragon Solutions
+  link: https://paragonsolutions.ma
 
 - name: Ge4Tech.com
   link: http://www.ge4tech.com
-  logo:
+
+- name: Symodd
+  link: http://www.symodd.com/blog
 
 - name: hcouchD.com
   link: http://www.hcouchd.com
-  logo:
 
 - name: ibn-zohr-university.com
   link: http://www.ibn-zohr-university.com
-  logo:
 
 - name: Castle-Tips.com
   link: http://www.castle-tips.com
-  logo:
 
 - name: MegaWebPro
   link: http://www.megawebpro.com
-  logo:
 
-- name: Th9pro.tk
+- name: HappyNador.com
+  link: http://www.happynador.com
+
+- name: GSin Team
+  link: http://gsin-team.com
+
+- name: Almohtarif.ga
+  link: http://www.almohtarif.ga
+
+- name: PSman.gq
+  link: http://www.psman.gq
+
+- name: AdilHaddaoui.com
+  link: http://www.adilhaddaoui.com
+
+- name: Aty9ny Blog
+  link: http://aty9ny.blogspot.ch
+
+- name: Th3pc Blog
+  link: http://th3pc.blogspot.com
+
+- name: Ghariba2 Blog
+  link: http://www.ghariba2.blogspot.ch
+
+- name: Ibda3Echo Blog
+  link: http://ibda3echo.blogspot.ch
+
+- name: Ameninfo-ma Blog
+  link: http://ameninfo-ma.blogspot.de
+
+- name: Th9pro Blog
   link: http://www.th9pro.tk
-  logo:
 
 - name: NewsAtDotNet
   link: http://newsatdotnet.blogspot.com
-  logo:
 
 - name: KorchiBlog
   link: http://korchiblog.blogspot.com
-  logo:
