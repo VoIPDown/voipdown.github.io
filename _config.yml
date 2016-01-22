@@ -6,7 +6,8 @@ description: >
   au Maroc par l'Agence Nationale de Réglementation des Télécommunications
   depuis le 5 Janvier 2016.
 baseurl: ""
-url: "http://voipdown.com"
+url: 'https://voipdown.com'
+enforce_ssl: 'voipdown.com'
 fixedNav: 'true' # true or false
 theme: orange # green, blue, orange, purple, grey
 twitterUsername:
