@@ -6,7 +6,7 @@
 - name: JobFinder
   link: http://jobfinder.ma
   type: company
-  
+
 - name: Achraf52
   link: http://achraf52.com
   type: company
@@ -49,6 +49,10 @@
 
 - name: MegaWeb Pro
   link: http://www.megawebpro.com
+  type: company
+
+- name: Le Hoster
+  link: https://www.lehoster.com
   type: company
 
 - name: NewCompra
@@ -103,6 +107,14 @@
 
 - name: ErrachidiaHD
   link: http://www.errachidiahd.com
+  type: blog
+
+- name: myBouazza Online
+  link: http://www.mybouazza-online.com
+  type: blog
+
+- name: LGeek.info
+  link: LGeek.info
   type: blog
 
 - name: ibn-zohr-university.com
@@ -195,6 +207,14 @@
 
 - name: Khabchi Blog
   link: http://khabchi.blogspot.com
+  type: blog
+
+- name: iBlog98 Blog
+  link: http://iblog98.blogspot.com
+  type: blog
+
+- name: Th4Generation Blog
+  link: http://th4generation.blogspot.com
   type: blog
 
 - name: Mobi iPhone
