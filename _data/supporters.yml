@@ -6,6 +6,10 @@
 - name: JobFinder
   link: http://jobfinder.ma
   type: company
+  
+- name: Achraf52
+  link: http://achraf52.com
+  type: company
 
 - name: Zaigood
   link: http://www.zaigood.com
@@ -67,10 +71,6 @@
 
 - name: zakelfassi.com
   link: http://zakelfassi.com
-  type: blog
-
-- name: Achraf52.com
-  link: http://achraf52.com
   type: blog
 
 - name: ZakiOussama.com
