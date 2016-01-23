@@ -93,8 +93,16 @@
   link: http://www.tarikraiss.com
   type: blog
 
+- name: Saadel.me
+  link: http://saadel.me
+  type: blog
+
 - name: HappyNador.com
   link: http://www.happynador.com
+  type: blog
+
+- name: ErrachidiaHD
+  link: http://www.errachidiahd.com
   type: blog
 
 - name: ibn-zohr-university.com
@@ -129,6 +137,18 @@
   link: http://www.psman.gq
   type: blog
 
+- name: Drousse Web
+  link: http://www.drousse-web.com
+  type: blog
+
+- name: Gymsday
+  link: http://www.gymsday.com
+  type: blog
+
+- name: Th3Lord
+  link: http://www.th3lord.com
+  type: blog
+
 - name: Aty9ny Blog
   link: http://aty9ny.blogspot.ch
   type: blog
@@ -161,6 +181,22 @@
   link: http://korchiblog.blogspot.com
   type: blog
 
+- name: Korchi2016.tk
+  link: http://www.korchi2016.tk
+  type: blog
+
 - name: 1abd Blog
   link: http://1abd.blogspot.com
+  type: blog
+
+- name: Abde Informatique Blog
+  link: http://1abd.blogspot.com
+  type: blog
+
+- name: Khabchi Blog
+  link: http://khabchi.blogspot.com
+  type: blog
+
+- name: Mobi iPhone
+  link: http://mobi.oui9.com/iphone
   type: blog
