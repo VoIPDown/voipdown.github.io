@@ -157,8 +157,16 @@
   link: http://www.gymsday.com
   type: blog
 
+- name: GymArabs.com
+  link: http://www.gymarabs.com
+  type: blog
+
 - name: Th3Lord
   link: http://www.th3lord.com
+  type: blog
+
+- name: TelecomBladi.com
+  link: http://www.telecombladi.com
   type: blog
 
 - name: Aty9ny Blog
@@ -219,4 +227,24 @@
 
 - name: Mobi iPhone
   link: http://mobi.oui9.com/iphone
+  type: blog
+
+- name: Tech3net
+  link: http://www.tech3net.tk
+  type: blog
+
+- name: Aalimnii Blog
+  link: http://aalimnii.blogspot.ch
+  type: blog
+
+- name: NadoRif
+  link: http://www.nadorif.ga
+  type: blog
+
+- name: Hackers-ethic.tk
+  link: http://www.hackers-ethic.tk
+  type: blog
+
+- name: CharifZetati Blog
+  link: http://charifzetati.blogspot.ch
   type: blog
