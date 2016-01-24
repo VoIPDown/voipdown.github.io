@@ -7,10 +7,6 @@
   link: http://jobfinder.ma
   type: company
 
-- name: Achraf52
-  link: http://achraf52.com
-  type: company
-
 - name: Zaigood
   link: http://www.zaigood.com
   type: company
@@ -37,6 +33,10 @@
 
 - name: Symodd
   link: http://www.symodd.com/blog
+  type: company
+
+- name: Achraf52
+  link: http://achraf52.com
   type: company
 
 - name: GSin Team
@@ -167,6 +167,10 @@
 
 - name: TelecomBladi.com
   link: http://www.telecombladi.com
+  type: blog
+
+- name: Ribhe Blog
+  link: http://www.ribhe.com
   type: blog
 
 - name: Aty9ny Blog
