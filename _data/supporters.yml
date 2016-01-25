@@ -59,6 +59,30 @@
   link: https://newcompra.com
   type: company
 
+- name: CleanIT
+  link: http://cleanit.ma
+  type: company
+
+- name: Oxyweb
+  link: https://oxyweb.ma
+  type: company
+
+- name: mFreeHost.net
+  link: http://www.mfreehost.net
+  type: company
+
+- name: AjiCreative
+  link: http://www.ajicreative.com
+  type: company
+
+- name: iCoz.ma
+  link: http://www.icoz.ma
+  type: company
+
+- name: ELM Club
+  link: http://mrc.clubelm.net
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -101,6 +125,10 @@
   link: http://saadel.me
   type: blog
 
+- name: Baystater.me
+  link: http://baystater.me
+  type: blog
+
 - name: HappyNador.com
   link: http://www.happynador.com
   type: blog
@@ -109,12 +137,20 @@
   link: http://www.errachidiahd.com
   type: blog
 
+- name: ZutRadio.com
+  link: http://www.zutradio.com
+  type: blog
+
 - name: myBouazza Online
   link: http://www.mybouazza-online.com
   type: blog
 
 - name: LGeek.info
   link: LGeek.info
+  type: blog
+
+- name: Maroc49.com
+  link: http://www.maroc49.com
   type: blog
 
 - name: ibn-zohr-university.com
@@ -139,6 +175,18 @@
 
 - name: Castle-Tips.com
   link: http://www.castle-tips.com
+  type: blog
+
+- name: 4youtech.com
+  link: http://www.4youtech.com
+  type: blog
+
+- name: Geeksyfe.net
+  link: http://geeksyfe.net
+  type: blog
+
+- name: Abo2zaid.com
+  link: http://www.abo2zaid.com
   type: blog
 
 - name: Almohtarif.ga
@@ -171,6 +219,14 @@
 
 - name: Ribhe Blog
   link: http://www.ribhe.com
+  type: blog
+
+- name: Saba7com.com
+  link: http://www.saba7com.com
+  type: blog
+
+- name: Almohtarifdz Blog
+  link: http://www.almohtarifdz.com
   type: blog
 
 - name: Aty9ny Blog
@@ -251,4 +307,16 @@
 
 - name: CharifZetati Blog
   link: http://charifzetati.blogspot.ch
+  type: blog
+
+- name: Language Hacker Blog
+  link: http://language-hacker.blogspot.com
+  type: blog
+
+- name: Blogger0-1 Blog
+  link: http://blogger0-1.blogspot.com
+  type: blog
+
+- name: UITpress16 Blog
+  link: http://uitpress16.blogspot.com
   type: blog
