@@ -129,6 +129,14 @@
   link: http://baystater.me
   type: blog
 
+- name: SamySouhail.info
+  link: http://www.samysouhail.info
+  type: blog
+
+- name: imadosis.com
+  link: http://www.imadosis.com
+  type: blog
+
 - name: HappyNador.com
   link: http://www.happynador.com
   type: blog
@@ -157,8 +165,16 @@
   link: http://www.ibn-zohr-university.com
   type: blog
 
+- name: Studies.ma
+  link: http://www.studies.ma
+  type: blog
+
 - name: Me3loma.com
   link: http://www.me3loma.com
+  type: blog
+
+- name: yourMasdar.org
+  link: http://yourmasdar.org
   type: blog
 
 - name: ComputerSciencesArabic.com
@@ -187,6 +203,14 @@
 
 - name: Abo2zaid.com
   link: http://www.abo2zaid.com
+  type: blog
+
+- name: DelecoTech.com
+  link: http://www.delecotech.com
+  type: blog
+
+- name: Th3WebKeys.com
+  link: http://www.th3webkeys.com
   type: blog
 
 - name: Almohtarif.ga
@@ -219,6 +243,10 @@
 
 - name: Ribhe Blog
   link: http://www.ribhe.com
+  type: blog
+
+- name: irba7Box.com
+  link: http://www.irba7box.com
   type: blog
 
 - name: Saba7com.com
@@ -319,4 +347,12 @@
 
 - name: UITpress16 Blog
   link: http://uitpress16.blogspot.com
+  type: blog
+
+- name: arab-info2 Blog
+  link: http://arab-info2.blogspot.com
+  type: blog
+
+- name: AbozaidWeb Blog
+  link: http://abozaidweb.blogspot.com.eg
   type: blog
