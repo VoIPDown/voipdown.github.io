@@ -6,7 +6,7 @@ This open source project was created in response to the blocking of VoIP technol
 
 Go to `/_data/link.yml` and follow the pattern.
 
-## How to add supports?
+## How to add supporters?
 
 Go to `/_data/supporters.yml` and follow the pattern.
 
@@ -21,7 +21,7 @@ Make sure to add a `{:dir="rtl"}` line before your arabic content (to render it 
 ## Contributors
 
 - **Mehdi Ayache** / VoIP counter design.
-- **Zak El Fassi** / Code, initial -crappy- text.
+- **Zak El Fassi** / Code, content.
 - **Oussama Zaki** / Arabic content, favicon.
 
 ## Contact
