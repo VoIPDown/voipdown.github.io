@@ -83,6 +83,10 @@
   link: http://mrc.clubelm.net
   type: company
 
+- name: AliConception.com
+  link: http://www.aliconception.com/
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -135,6 +139,10 @@
 
 - name: imadosis.com
   link: http://www.imadosis.com
+  type: blog
+
+- name: Ayoub-Tech.com
+  link: http://www.ayoub-tech.com
   type: blog
 
 - name: HappyNador.com
@@ -213,6 +221,10 @@
   link: http://www.th3webkeys.com
   type: blog
 
+- name: Arrakmiya.com
+  link: http://www.arrakmiya.com/
+  type: blog
+
 - name: Almohtarif.ga
   link: http://www.almohtarif.ga
   type: blog
@@ -223,6 +235,10 @@
 
 - name: Drousse Web
   link: http://www.drousse-web.com
+  type: blog
+
+- name: TSGEcours.xyz
+  link: http://www.tsgecours.xyz/
   type: blog
 
 - name: Gymsday
@@ -257,11 +273,19 @@
   link: http://www.almohtarifdz.com
   type: blog
 
+- name: hamzaTV.com
+  link: http://www.hamzatv.com/
+  type: blog
+
 - name: Aty9ny Blog
   link: http://aty9ny.blogspot.ch
   type: blog
 
 - name: Th3pc Blog
+  link: http://th3pc.blogspot.com
+  type: blog
+
+- name: Th3WebKeys.com/
   link: http://th3pc.blogspot.com
   type: blog
 
@@ -356,3 +380,40 @@
 - name: AbozaidWeb Blog
   link: http://abozaidweb.blogspot.com.eg
   type: blog
+
+- name: Ninpress Blog
+  link: http://ninpress.blogspot.com/
+  type: blog
+
+- name: Edumdroos Blog
+  link: http://edumdroos.blogspot.com/
+  type: blog
+
+- name: Bay-o-Tech Blog
+  link: http://bay-o-tech.blogspot.com/
+  type: blog
+
+- name: HamzaBahou Blog
+  link: http://hamzabahou.blogspot.com/
+  type: blog
+
+- name: Mokhtsr Blog
+  link: http://mokhtsr.blogspot.com/
+  type: blog
+
+- name: Emdi-info Blog
+  link: http://emdi-info.blogspot.com/
+  type: blog
+
+- name: Teqnet02 Blog
+  link: http://teqnet02.blogspot.com/
+  type: blog
+
+- name: Anasspsress Blog
+  link: http://anasspsress.blogspot.com/
+  type: blog
+
+- name: Onegeek20 Blog
+  link: http://www.onegeek20.blogspot.com/
+  type: blog
+
