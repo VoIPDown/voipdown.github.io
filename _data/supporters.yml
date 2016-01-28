@@ -87,6 +87,14 @@
   link: http://www.aliconception.com/
   type: company
 
+- name: Lama Conseil
+  link: http://lamaconseil.com
+  type: company
+
+- name: ZHGlobserv
+  link: http://zh-globserv.net
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -183,6 +191,10 @@
 
 - name: yourMasdar.org
   link: http://yourmasdar.org
+  type: blog
+
+- name: Agenda24.org
+  link: http://www.agenda24.org
   type: blog
 
 - name: ComputerSciencesArabic.com
@@ -415,5 +427,33 @@
 
 - name: Onegeek20 Blog
   link: http://www.onegeek20.blogspot.com/
+  type: blog
+
+- name: Hami4u Blog
+  link: http://hami4u.blogspot.com
+  type: blog
+
+- name: Stepdev Blog
+  link: http://www.stepdev.tk
+  type: blog
+
+- name: AmazighMed Blog
+  link: http://amazighmed.blogspot.com
+  type: blog
+
+- name: Animemed-4you Blog
+  link: http://animemed-4you.blogspot.com
+  type: blog
+
+- name: Bizarres-net Blog
+  link: http://www.bizarres-net.tk
+  type: blog
+
+- name: Th3prosmall Blog
+  link: http://www.th3prosmall.ml
+  type: blog
+
+- name: MS5pro Blog
+  link: http://www.ms5pro.blogspot.com
   type: blog
 
