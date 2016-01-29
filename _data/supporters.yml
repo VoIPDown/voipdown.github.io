@@ -95,6 +95,10 @@
   link: http://zh-globserv.net
   type: company
 
+- name: LAMA Conseil
+  link: http://lamaconseil.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -289,6 +293,18 @@
   link: http://www.hamzatv.com/
   type: blog
 
+- name: Afuktech.com
+  link: http://www.afuktech.com
+  type: blog
+
+- name: WIXfilms.com
+  link: http://www.wixfilms.com
+  type: blog
+
+- name: Magrbica.com
+  link: http://www.magrbica.com
+  type: blog
+
 - name: Aty9ny Blog
   link: http://aty9ny.blogspot.ch
   type: blog
@@ -455,5 +471,29 @@
 
 - name: MS5pro Blog
   link: http://www.ms5pro.blogspot.com
+  type: blog
+
+- name: ar4coll7 Blog
+  link: http://ar4coll7.blogspot.com
+  type: blog
+
+- name: TechParkAll Blog
+  link: http://techparkall.blogspot.com
+  type: blog
+
+- name: Th3pro4info.tk
+  link: http://www.th3pro4info.tk
+  type: blog
+
+- name: Bayiga Blog
+  link: http://bayiga.blogspot.com
+  type: blog
+
+- name: InfoSpaace Blog
+  link: http://infospaace.blogspot.com
+  type: blog
+
+- name: admairi4info Blog
+  link: http://admairi4info.blogspot.com
   type: blog
 
