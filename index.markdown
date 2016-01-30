@@ -38,7 +38,7 @@ La mise à jour des jours écoulés depuis le blocage du VoIP se fait automatiqu
 </script>
 {% endhighlight %}
 
-*(ou, utiliser le plugin [https://github.com/imadarchid/voipdownWordpress](https://github.com/imadarchid/voipdownWordpress){:target="_blank"} pour Wordpress.)*
+*(ou, directement utiliser le plugin [https://wordpress.org/plugins/badge-for-voipdown/](https://wordpress.org/plugins/badge-for-voipdown/){:target="_blank"} pour Wordpress.)*
 
 > *Exemple* <img src="/assets/images/ribbon-example.png" alt="Compteur VoIPDown" width="100" height="80">
 
