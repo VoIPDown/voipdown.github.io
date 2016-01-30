@@ -95,6 +95,10 @@
   link: http://zh-globserv.net
   type: company
 
+- name: Forum Mines-Rabat Entreprises
+  link: http://ensmr-entreprises.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -299,6 +303,22 @@
 
 - name: Magrbica.com
   link: http://www.magrbica.com
+  type: blog
+
+- name: BlogTechArabs.com
+  link: http://www.blogtecharabs.com
+  type: blog
+
+- name: Alwadifa7.com
+  link: http://www.alwadifa7.com
+  type: blog
+
+- name: Ne9la.com
+  link: http://www.ne9la.com
+  type: blog
+
+- name: Ayman-tech Blog
+  link: http://www.ayman-tech.com
   type: blog
 
 - name: Aty9ny Blog
