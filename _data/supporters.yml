@@ -99,6 +99,14 @@
   link: http://ensmr-entreprises.com
   type: company
 
+- name: Vala.ma
+  link: https://www.vala.ma
+  type: company
+
+- name: Bridge Networks
+  link: http://bridgenet.ma
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -237,6 +245,10 @@
   link: http://www.th3webkeys.com
   type: blog
 
+- name: sth3software.com
+  link: http://www.sth3software.com
+  type: blog
+
 - name: Arrakmiya.com
   link: http://www.arrakmiya.com/
   type: blog
@@ -281,6 +293,10 @@
   link: http://www.irba7box.com
   type: blog
 
+- name: Market-Geek.com
+  link: http://www.market-geek.com
+  type: blog
+
 - name: Saba7com.com
   link: http://www.saba7com.com
   type: blog
@@ -315,6 +331,10 @@
 
 - name: Ne9la.com
   link: http://www.ne9la.com
+  type: blog
+
+- name: TALIBma.com
+  link: http://www.talibma.com
   type: blog
 
 - name: Ayman-tech Blog
@@ -433,6 +453,10 @@
   link: http://edumdroos.blogspot.com/
   type: blog
 
+- name: SMPcours
+  link: http://www.smpcours.co.vu
+  type: blog
+
 - name: Bay-o-Tech Blog
   link: http://bay-o-tech.blogspot.com/
   type: blog
@@ -513,3 +537,6 @@
   link: http://admairi4info.blogspot.com
   type: blog
 
+- name: Th3Almo7tarifoon Blog
+  link: http://th3almo7tarifoon.blogspot.com
+  type: blog
