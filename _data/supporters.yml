@@ -107,6 +107,14 @@
   link: http://bridgenet.ma
   type: company
 
+- name: Balatin
+  link: https://balatin.com
+  type: company
+
+- name: μSELEKT
+  link: http://www.uselekt.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -251,6 +259,10 @@
 
 - name: Arrakmiya.com
   link: http://www.arrakmiya.com/
+  type: blog
+
+- name: Sporton.ma
+  link: http://sporton.ma
   type: blog
 
 - name: Almohtarif.ga
@@ -543,4 +555,20 @@
 
 - name: Th3Almo7tarifoon Blog
   link: http://th3almo7tarifoon.blogspot.com
+  type: blog
+
+- name: netFaculte Blog
+  link: http://netfaculte.blogspot.com
+  type: blog
+
+- name: MonTuto Blog
+  link: http://montuto1614.wix.com/montuto
+  type: blog
+
+- name: Tech3net
+  link: http://www.tech3net.tk
+  type: blog
+
+- name: ochbati Blog
+  link: http://ochbati.blogspot.com
   type: blog
