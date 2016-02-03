@@ -115,6 +115,10 @@
   link: http://www.uselekt.com
   type: company
 
+- name: YSdesigne.com
+  link: http://www.ysdesigne.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -217,6 +221,10 @@
   link: http://www.agenda24.org
   type: blog
 
+- name: Flash.ma
+  link: http://www.flash.ma
+  type: blog
+
 - name: ComputerSciencesArabic.com
   link: http://www.computersciencesarabic.com
   type: blog
@@ -263,6 +271,10 @@
 
 - name: Sporton.ma
   link: http://sporton.ma
+  type: blog
+
+- name: Coursnet.com
+  link: http://www.coursnet.com
   type: blog
 
 - name: Almohtarif.ga
@@ -355,6 +367,14 @@
 
 - name: RKSkills.com
   link: http://www.rkskills.com
+  type: blog
+
+- name: Wasafat.ma
+  link: http://www.wasafat.ma
+  type: blog
+
+- name: Geekgenes.com
+  link: http://www.geekgenes.com
   type: blog
 
 - name: Aty9ny Blog
@@ -571,4 +591,20 @@
 
 - name: ochbati Blog
   link: http://ochbati.blogspot.com
+  type: blog
+
+- name: Special1info Blog
+  link: http://special1info.blogspot.com
+  type: blog
+
+- name: IssamOfficiel Blog
+  link: http://issamofficiel.blogspot.com
+  type: blog
+
+- name: El5ayr Blog
+  link: http://www.el5ayr.co.vu
+  type: blog
+
+- name: Th3ans Blog
+  link: http://www.th3ans.blogspot.com
   type: blog
