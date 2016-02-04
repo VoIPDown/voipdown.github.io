@@ -119,6 +119,10 @@
   link: http://www.ysdesigne.com
   type: company
 
+- name: Edinfo.ma
+  link: http://www.edinfo.ma
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -175,6 +179,10 @@
 
 - name: Ayoub-Tech.com
   link: http://www.ayoub-tech.com
+  type: blog
+
+- name: Haroun Sabry's Blog
+  link: http://www.harounsabry.com
   type: blog
 
 - name: HappyNador.com
@@ -275,6 +283,14 @@
 
 - name: Coursnet.com
   link: http://www.coursnet.com
+  type: blog
+
+- name: 9alami.info
+  link: http://www.9alami.info
+  type: blog
+
+- name: info-ofppt.com
+  link: http://info-ofppt.com
   type: blog
 
 - name: Almohtarif.ga
@@ -607,4 +623,8 @@
 
 - name: Th3ans Blog
   link: http://www.th3ans.blogspot.com
+  type: blog
+
+- name: TheDesigner1 Blog
+  link: http://thedesigner1.blogspot.com
   type: blog
