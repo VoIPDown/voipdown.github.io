@@ -123,6 +123,10 @@
   link: http://www.edinfo.ma
   type: company
 
+- name: Zawaya Vision
+  link: http://www.zawaya-vision.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -351,6 +355,10 @@
 
 - name: Afuktech.com
   link: http://www.afuktech.com
+  type: blog
+
+- name: ur-games.com
+  link: http://www.ur-games.com
   type: blog
 
 - name: WIXfilms.com
@@ -627,4 +635,8 @@
 
 - name: TheDesigner1 Blog
   link: http://thedesigner1.blogspot.com
+  type: blog
+
+- name: Geek-Boudra Blog
+  link: http://geek-boudra.blogspot.com
   type: blog
