@@ -130,6 +130,10 @@
 - name: MarocJour
   link: http://www.marocjour.com
   type: company
+  
+- name: WAWneeds
+  link: http://cloud.wawneeds.com
+  type: company
 
 # News sites / Personal sites / Blogs
 
