@@ -126,6 +126,10 @@
 - name: Zawaya Vision
   link: http://www.zawaya-vision.com
   type: company
+  
+- name: MarocJour
+  link: http://www.marocjour.com
+  type: company
 
 # News sites / Personal sites / Blogs
 
