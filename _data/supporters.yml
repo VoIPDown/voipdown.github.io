@@ -126,13 +126,29 @@
 - name: Zawaya Vision
   link: http://www.zawaya-vision.com
   type: company
-  
+
 - name: MarocJour
   link: http://www.marocjour.com
   type: company
-  
+
 - name: WAWneeds
   link: http://cloud.wawneeds.com
+  type: company
+
+- name: Derbsellicon / Makers DIY Morocco
+  link: http://store.derb.io
+  type: company
+
+- name: LaPub.ma
+  link: http://lapub.ma
+  type: company
+
+- name: Do-it.ma
+  link: http://www.do-it.ma
+  type: company
+
+- name: SupIndex.com
+  link: http://www.supindex.com
   type: company
 
 # News sites / Personal sites / Blogs
