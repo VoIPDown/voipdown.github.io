@@ -151,6 +151,18 @@
   link: http://www.supindex.com
   type: company
 
+- name: MaitFX.net
+  link: http://maitfx.net
+  type: company
+
+- name: Ymken.com
+  link: http://www.ymken.com
+  type: company
+
+- name: Outline.ma
+  link: http://www.outline.ma
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -213,6 +225,14 @@
   link: http://www.harounsabry.com
   type: blog
 
+- name: Mohammed Cherifi's Blog
+  link: http://www.mcherifi.org
+  type: blog
+
+- name: ElidrissiZak.com
+  link: http://www.elidrissizak.com
+  type: blog
+
 - name: HappyNador.com
   link: http://www.happynador.com
   type: blog
@@ -243,6 +263,10 @@
 
 - name: Studies.ma
   link: http://www.studies.ma
+  type: blog
+
+- name: Doros-bac.com
+  link: http://www.doros-bac.com
   type: blog
 
 - name: Me3loma.com
@@ -667,4 +691,8 @@
 
 - name: Geek-Boudra Blog
   link: http://geek-boudra.blogspot.com
+  type: blog
+
+- name: http://atlas15.blogspot.com
+  link: http://atlas15.blogspot.com
   type: blog
