@@ -7,7 +7,7 @@ title: VoIPDown
 {:dir="rtl"}
 > VoIPDown مبادرة تستهدف حشد أكبر عدد من المواقع الإلكترونية المغربية على اختلاف توجهاتها و ذلك قصد الاحتجاج على قرار الوكالة الوطنية لتقنين الاتصالات ANRT و القاضي بحظر الاتصال عبر التطبيقات العاملة ببروتوكول VoIP، وذلك عبر إضافة عداد إلى أسفل الصفحات (كيفية الإستعمال أسفله).
 
-Pour rappel, les communications VoIP *(Skype, Viber, Whatsapp, Facetime, ...)* on été bloquées par tous les opérateurs marocains (en 3G/4G en ce moment, ADSL dans quelques jours selon [Telquel.ma](http://telquel.ma/2016/01/12/plus-quelques-reglages-blocage-total-voip-maroc_1477504){:target="_blank"}), et ce, suite à une décision de l'Agence Nationale de des Télécommunications, datant de 2004. Voir le [communiqué de presse](http://anrt.ma/sites/default/files/CP-Telephonie-IP-fr.pdf){:target="_blank"}.
+Pour rappel, les communications VoIP *(Skype, Viber, Whatsapp, Facetime, ...)* on été bloquées par tous les opérateurs marocains (en 3G/4G et en ADSL selon [Telquel.ma](http://telquel.ma/2016/01/12/plus-quelques-reglages-blocage-total-voip-maroc_1477504){:target="_blank"}), et ce, suite à une décision de l'Agence Nationale de des Télécommunications, datant de 2004. Voir le [communiqué de presse](http://anrt.ma/sites/default/files/CP-Telephonie-IP-fr.pdf){:target="_blank"}.
 
 <img src="/assets/images/failed-calls-screenshots.jpg" alt="VoIP Bloqué au Maroc">
 
