@@ -163,6 +163,14 @@
   link: http://www.outline.ma
   type: company
 
+- name: Rss2PDF
+  link: http://www.rss2pdf.cc/
+  type: company
+
+- name: MarocRank.com
+  link: http://marocrank.com/
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -527,6 +535,14 @@
 
 - name: NadoRif
   link: http://www.nadorif.ga
+  type: blog
+
+- name: Fez-guide.com
+  link: http://www.fez-guide.com/
+  type: blog
+
+- name: Maghrebvoyage.com
+  link: http://www.maghrebvoyage.com/
   type: blog
 
 - name: Hackers-ethic.tk
