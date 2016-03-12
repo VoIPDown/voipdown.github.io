@@ -68,7 +68,7 @@
   type: company
 
 - name: mFreeHost.net
-  link: http://www.mfreehost.net
+  link: http://www.mfreehost.cf
   type: company
 
 - name: AjiCreative
@@ -183,6 +183,10 @@
   link: http://www.foliaco.ma
   type: company
 
+- name: Electromonde.com
+  link: http://electromonde.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -253,6 +257,10 @@
   link: http://www.elidrissizak.com
   type: blog
 
+- name: NabilSafir.com
+  link: http://www.nabilsafir.com
+  type: blog
+
 - name: HappyNador.com
   link: http://www.happynador.com
   type: blog
@@ -267,6 +275,18 @@
 
 - name: myBouazza Online
   link: http://www.mybouazza-online.com
+  type: blog
+
+- name: SijilmassaPress.com
+  link: http://www.sijilmassapress.com
+  type: blog
+
+- name: onnee.ch
+  link: http://onnee.ch
+  type: blog
+
+- name: dayet-aoua.ml
+  link: http://www.dayet-aoua.ml
   type: blog
 
 - name: LGeek.info
@@ -495,6 +515,10 @@
 
 - name: Ameninfo-ma Blog
   link: http://ameninfo-ma.blogspot.de
+  type: blog
+
+- name: mosamimpro.com
+  link: http://www.mosamimpro.com
   type: blog
 
 - name: Th9pro Blog
