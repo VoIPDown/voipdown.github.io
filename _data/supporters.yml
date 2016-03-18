@@ -187,6 +187,10 @@
   link: http://electromonde.com
   type: company
 
+- name: Republikas
+  link: https://www.republikas.com
+  type: company
+
 # News sites / Personal sites / Blogs
 
 - name: Th3Professional.com
@@ -747,4 +751,8 @@
 
 - name: http://atlas15.blogspot.com
   link: http://atlas15.blogspot.com
+  type: blog
+
+- name: http://geek-androidpro.blogspot.com
+  link: http://geek-androidpro.blogspot.com
   type: blog
