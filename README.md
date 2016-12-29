@@ -1,4 +1,8 @@
 # VoIPDown.com
+
+## UPDATE
+VoIP was restablished in Morocco as of December 2016. The ban lasted for about 11months.
+
 This open source project was created in response to the blocking of VoIP technologies in Morocco by the National Agency for Regulation of Telecommunications (ANRT), since January 5, 2016.
 [Visit the site.](http://voipdown.com)
 
